@@ -3,18 +3,12 @@
 
 ## Table of contents 
 
-- [Project Overview](Project-Overview)
-
-- [Data sources](Data-sources)
-
-- [Tools](Tools)
-
-- [Data Cleaning & Prepartion](Data-Cleaning-Prepartion)
-
-- [EXploratory Data analysis](EXploratory-Data-analysis)
-
-- [Results & Findings](Results-Findings)
-
+- [Project Overview](#project-overview)
+- [Data sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results & Findings](#results--findings)
 
 
 ### Project Overview
@@ -22,6 +16,11 @@
 Sales Analysis Project
 This project focuses on analyzing a full year of sales data to extract key business insights and answer important business questions.
 The dataset consists of 12 months of sales records, which were cleaned, transformed, and combined into a single dataset for analysis.
+
+<img width="875" height="479" alt="sales" src="https://github.com/user-attachments/assets/b0f7232e-11a1-4471-8f26-517e714d091d" />
+
+<img width="858" height="478" alt="sales2" src="https://github.com/user-attachments/assets/1c3a89d3-da0a-44cd-b9e3-097aa1321393" />
+
 
 ### Data sources
 
